@@ -6,16 +6,6 @@ Software consultant in Barcelona. Building tools for the agentic era.
 
 ---
 
-#### 📚 The Agentic Crew — Free Book Series
-
-Three free books on agentic engineering — for developers, non-coders, and teams. Covers agent orchestration, guardrails, testing, and CI/CD. Available in 4 languages with interactive audiobook.
-
-👉 **[theagenticcrew.com](https://theagenticcrew.com)**
-
-<a href="https://theagenticcrew.com"><img src="https://theagenticcrew.com/book-cover.png" width="150" alt="The Agentic Crew"></a> <a href="https://theagenticcrew.com"><img src="https://theagenticcrew.com/book-cover-crew.png" width="150" alt="The Agentic Crew - Teams"></a> <a href="https://theagenticcrew.com"><img src="https://schlunsen.github.io/book-cover-handson.png" width="150" alt="Hands-On Agentic Engineering"></a>
-
----
-
 #### Featured Projects
 
 | Project | Description |
@@ -28,3 +18,13 @@ Three free books on agentic engineering — for developers, non-coders, and team
 ---
 
 ![Github Stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=schlunsen&show_icons=true&theme=ayu-mirage)
+
+---
+
+#### 📚 The Agentic Crew — Free Book Series
+
+Three free books on agentic engineering — for developers, non-coders, and teams. Available in 4 languages with interactive audiobook.
+
+👉 **[theagenticcrew.com](https://theagenticcrew.com)**
+
+<a href="https://theagenticcrew.com"><img src="https://theagenticcrew.com/book-cover.png" width="150" alt="The Agentic Crew"></a> <a href="https://theagenticcrew.com"><img src="https://theagenticcrew.com/book-cover-crew.png" width="150" alt="The Agentic Crew - Teams"></a> <a href="https://theagenticcrew.com"><img src="https://schlunsen.github.io/book-cover-handson.png" width="150" alt="Hands-On Agentic Engineering"></a>

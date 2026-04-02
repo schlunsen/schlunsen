@@ -1,8 +1,14 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/schlunsen/schlunsen/main/banner.gif" width="100%" alt="Cyberpunk Mountains">
+
 ### Hey, I'm Rasmus 👋
 
-Software consultant in Barcelona. Building tools for the agentic era.
+Software engineer in Barcelona. Building tools for the agentic era.
 
 🌐 **[schlunsen.github.io](https://schlunsen.github.io)**
+
+</div>
 
 ---
 

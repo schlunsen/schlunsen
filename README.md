@@ -1,6 +1,6 @@
 ### Hey, I'm Rasmus 👋
 
-Software consultant in Barcelona. Building tools for the agentic era.
+Software engineer in Barcelona. Building tools for the agentic era.
 
 🌐 **[schlunsen.github.io](https://schlunsen.github.io)**
 

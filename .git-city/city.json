@@ -1,9 +1,34 @@
 {
   "$schema": "https://schlunsen.github.io/git-city/schema/city-config.v1.json",
   "version": 1,
-  "island": { "name": "Schlunsen Isle" },
+  "island": { "name": "Schlunsen Isle", "biome": "tropical", "shape": "round" },
   "welcome": "Welcome to my city! I'm the creator of git city",
-  "featured": ["git-city", "gource-view"],
-  "landmarks": ["rollerCoaster", "observatory", "balloonPad"],
-  "player": { "music": "cipher", "volume": 20 }
+  "look": { "accent": "#64dedb", "time": "auto", "timezone": "Europe/Copenhagen", "fx": true, "tv": false },
+  "landmarks": ["rollerCoaster", "observatory", "balloonPad", "windTurbines", "campsite"],
+  "neighbours": ["antfu", "sindresorhus", "gaearon", "torvalds", "tj"],
+  "featured": ["git-city", "gource-view", "claude-agent-sdk-go", "maperick", "wee-editor"],
+  "repos": {
+    "gource-view": {
+      "style": "tower", "roof": "antenna", "neon": "#8c78ff",
+      "billboard": "Your repo's whole history, growing like a tree",
+      "graffiti": { "text": "watch it grow", "color": "#8c78ff", "style": "tag" }
+    },
+    "claude-agent-sdk-go": {
+      "roof": "solar", "neon": "#ffa03a", "sign": "Claude, in Go",
+      "graffiti": { "text": "go go go", "color": "#00add8", "style": "stencil" }
+    },
+    "maperick": { "roof": "garden", "flag": "🗺️", "sign": "TCP world map" },
+    "wee-editor": {
+      "style": "cottage", "roof": "garden",
+      "graffiti": { "text": "wee", "color": "#ffcf5a", "style": "bubble" }
+    },
+    "radio-cli": { "roof": "antenna", "neon": "#ff5ab4", "flag": "📻" },
+    "vue-audiomotion": {
+      "neon": "#42b883",
+      "graffiti": { "text": "♪ ♫ ♪", "color": "#42b883", "style": "tag" }
+    },
+    "esp32_mqtt_relay": { "roof": "antenna", "flag": "⚡" }
+  },
+  "player": { "music": "none" },
+  "plane": { "color": "#e4574f", "name": "Spirit of Rebase" }
 }

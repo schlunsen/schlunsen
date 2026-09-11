@@ -1,0 +1,9 @@
+{
+  "$schema": "https://schlunsen.github.io/git-city/schema/city-config.v1.json",
+  "version": 1,
+  "island": { "name": "Schlunsen Isle" },
+  "welcome": "Welcome to my city! I'm the creator of git city",
+  "featured": ["git-city", "gource-view"],
+  "landmarks": ["rollerCoaster", "observatory", "balloonPad"],
+  "player": { "music": "cipher", "volume": 20 }
+}

@@ -3,7 +3,7 @@
   "version": 1,
   "island": { "name": "Schlunsen Isle", "biome": "tropical", "shape": "round" },
   "welcome": "Welcome to my city! I'm the creator of git city",
-  "look": { "accent": "#64dedb", "time": "auto", "timezone": "Europe/Copenhagen", "fx": true, "tv": false },
+  "look": { "accent": "#64dedb", "time": "auto", "timezone": "Europe/Copenhagen", "fx": false, "tv": true },
   "landmarks": ["rollerCoaster", "observatory", "balloonPad", "windTurbines", "campsite"],
   "neighbours": ["antfu", "sindresorhus", "gaearon", "torvalds", "tj"],
   "featured": ["git-city", "gource-view", "claude-agent-sdk-go", "maperick", "wee-editor"],
